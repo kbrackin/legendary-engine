@@ -12,8 +12,6 @@ N/A
 
 To use this Horiseon Social Solution Services site, you can read about the company on the main page and click the navigational links at the top left of the page to jump to a section of interest on the page. To view the semantic updates, open the Chrome DevTools by pressing Control + Shift + I on Windows or Command + Shift + I on macOS. A console should appear on the side or the bottom of the page, and by clicking on the Elements tab, you should be able to view the changes in the pop-up window.
 
-![Horiseon Home Page](assets/images/screenshot.png)
-
 ## Credits
 
 N/A
